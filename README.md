@@ -17,6 +17,7 @@ This folder contains examples and implementations of ensemble learning methods, 
 
 - Bagging
 - Boosting
+- Voting
 - Random forests
 
 ## Classification
@@ -28,16 +29,19 @@ This folder contains examples and implementations of classification algorithms, 
 - Support vector machines
 - Naive Bayes
 - k-Nearest Neighbors
+- Random Forests
 
 ## Regression
 
 This folder contains examples and implementations of regression algorithms, including:
 
 - Linear regression
-- Polynomial regression
 - Ridge regression
 - Lasso regression
 - ElasticNet regression
+- Support Vector Machine
+- Stochastic Gradient Descent
+-  Random Forest Regression
 
 ## Feature Engineering
 
